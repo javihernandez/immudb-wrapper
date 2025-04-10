@@ -24,7 +24,7 @@ setup(
     scripts=['immudb_wrapper.py'],
     install_requires=[
         'GitPython>=3.1.20',
-        'immudb-py>=1.4.0',
+        'immudb-py>=1.5.0',
     ],
     python_requires='>=3.7',
 )
